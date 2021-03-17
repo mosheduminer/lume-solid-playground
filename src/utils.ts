@@ -1,0 +1,1 @@
+export const positionZ = (t: number, constSpeed: number) => -(t * constSpeed);
